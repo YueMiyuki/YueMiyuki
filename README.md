@@ -2,7 +2,7 @@
 
 Hi there! I am Miracle!
 
-I am now learning:
+I am now learning:  
 ![nodejs](https://badges.aleen42.com/src/node.svg) Node.js
 
 Here are my pinned repos 👇
