@@ -3,7 +3,9 @@
 Hi there! I am Miracle!
 
 I am now learning:  
-![nodejs](https://badges.aleen42.com/src/node.svg) Node.js
+![nodejs](https://badges.aleen42.com/src/node.svg) Node.js  
+![vue](https://badges.aleen42.com/src/vue.svg) Vue  
+![java](https://badges.aleen42.com/src/java.svg) Java
 
 Here are my pinned repos 👇
 
