@@ -16,4 +16,4 @@ My account data 👇
 
 ![Ab0ut_m1racl3](https://github-readme-stats.vercel.app/api/?username=ItzMiracleOwO&locale=cn&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
 
-![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMiracleOwO&locale=cn&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true)
+![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMiracleOwO&locale=cn&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
