@@ -3,18 +3,18 @@
 Hi there! I am Miracle!
 
 I am now using the language below:  
-![javascript](https://badges.aleen42.com/src/javascript.svg) JavaScript  
-![nodejs](https://badges.aleen42.com/src/node.svg) Node.js  
-![docker](https://badges.aleen42.com/src/docker.svg) Docker  
+![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
+![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
+![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 
 I am using the IDEs below:  
-![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) Visual Studio Code  
-![vc](https://badges.aleen42.com/src/visual_studio.svg) Visual Studio  
-![idea](https://badges.aleen42.com/src/idea.svg) IntelliJ IDEA
+![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
+![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
+![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
 
 I am now learning the languages below:  
-![java](https://badges.aleen42.com/src/java.svg) Java
-![vue](https://badges.aleen42.com/src/vue.svg) Vue  
+![java](https://badges.aleen42.com/src/java.svg) : Java  
+![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
 
 Here are my pinned repos 👇
 
