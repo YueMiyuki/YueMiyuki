@@ -18,11 +18,11 @@ I am now learning the languages below:
 
 Here are my pinned repos 👇
 
-![WardDa5h](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=WardDashboard&locale=cn&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)
-![5urfac3_Ubuntu](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=surface-ubuntu&locale=cn&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)
+![WardDa5h](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=WardDashboard&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)
+![5urfac3_Ubuntu](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=surface-ubuntu&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)
 
 My account data 👇
 
-![Ab0ut_m1racl3](https://github-readme-stats.vercel.app/api/?username=ItzMiracleOwO&locale=cn&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
+![Ab0ut_m1racl3](https://github-readme-stats.vercel.app/api/?username=ItzMiracleOwO&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
 
-![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMiracleOwO&locale=cn&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
+![MyLang](https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMiracleOwO&show_icons=true&bg_color=23272A&title_color=FFC0CB&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=43B581&border_radius=10)
