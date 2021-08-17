@@ -15,6 +15,7 @@ I am using the IDEs below:
 I am now learning the languages below:  
 ![java](https://badges.aleen42.com/src/java.svg) : Java  
 ![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
+![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 
 Here are my pinned repos 👇
 
