@@ -1,6 +1,8 @@
 ### Ab0ut_m3
 
-Hi there! I am Miracle!
+Hi there! I am Miracle!  
+
+I am now working on:  
 [![juejin](https://badges.aleen42.com/src/juejin_translation.svg)](https://github.com/xitu/gold-miner)
 
 I am now using the language below:  
