@@ -2,9 +2,6 @@
 
 Hi there! I am Miracle!  
 
-I am now working on:  
-[![juejin](https://badges.aleen42.com/src/juejin_translation.svg)](https://github.com/xitu/gold-miner)
-
 I am now using the language below:  
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
 ![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
