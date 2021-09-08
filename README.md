@@ -22,12 +22,13 @@ I am now learning the languages below:
 Here are my pinned repos 👇
 
 ### Ward Dashboard
-> [![WardDa5h](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=WardDashboard&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/ItzMiracleOwO/WardDashboard)  
+> [![WardDa5h](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=WardDashboard&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/ItzMiracleOwO/WardDashboard)
 > ![CodeFactor](https://img.shields.io/codefactor/grade/github/ItzMiracleOwO/WardDashboard/main?color=%23F44A6A&logo=codefactor&style=for-the-badge) ![Java
 ](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java) ![html](https://img.shields.io/badge/html-red?style=for-the-badge) ![css](https://img.shields.io/badge/css-blue?style=for-the-badge)  
 
-
-[![5urfac3_Ubuntu](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=surface-ubuntu&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/mTechHK/surface-ubuntu)
+### Surface-Ubuntu
+> [![5urfac3_Ubuntu](https://github-readme-stats.vercel.app/api/pin/?username=ItzMiracleOwO&repo=surface-ubuntu&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/mTechHK/surface-ubuntu)
+> ![CodeFactor](https://img.shields.io/codefactor/grade/github/ItzMiracleOwO/surface-ubuntu/main?color=%23F44A6A&logo=codefactor&style=for-the-badge) ![shell](https://img.shields.io/badge/shell-orange?style=for-the-badge&logo=sh)
 
 My account data 👇
 
