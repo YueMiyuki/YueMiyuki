@@ -1,0 +1,143 @@
+
+Microsoft (R) Windows Debugger Version 10.0.22415.1003 AMD64
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+
+Loading Dump File [C:\Windows\Minidump\103121-9859-01.dmp]
+Mini Kernel Dump File: Only registers and stack trace are available
+
+
+************* Path validation summary **************
+Response                         Time (ms)     Location
+Deferred                                       srv*
+Symbol search path is: srv*
+Executable search path is: 
+Windows 10 Kernel Version 22000 MP (8 procs) Free x64
+Product: WinNt, suite: TerminalServer SingleUserTS
+Edition build lab: 22000.1.amd64fre.co_release.210604-1628
+Machine Name:
+Kernel base = 0xfffff801`73400000 PsLoadedModuleList = 0xfffff801`740296b0
+Debug session time: Sun Oct 31 12:48:03.552 2021 (UTC + 8:00)
+System Uptime: 0 days 0:13:05.287
+Loading Kernel Symbols
+...............................................................
+................................................................
+................................................................
+..............................................................
+Loading User Symbols
+Loading unloaded module list
+............................
+For analysis of this file, run !analyze -v
+nt!KeBugCheckEx:
+fffff801`73815590 48894c2408      mov     qword ptr [rsp+8],rcx ss:0018:ffff908d`f161f1f0=000000000000019c
+1: kd> !analyze -v
+*******************************************************************************
+*                                                                             *
+*                        Bugcheck Analysis                                    *
+*                                                                             *
+*******************************************************************************
+
+WIN32K_POWER_WATCHDOG_TIMEOUT (19c)
+Win32k did not turn the monitor on in a timely manner.
+Arguments:
+Arg1: 0000000000000050, Calling monitor driver to power on.
+Arg2: ffffce052ebe5080, Pointer to the power request worker thread.
+Arg3: 0000000000000000
+Arg4: 0000000000000000
+
+Debugging Details:
+------------------
+
+
+KEY_VALUES_STRING: 1
+
+    Key  : Analysis.CPU.mSec
+    Value: 2859
+
+    Key  : Analysis.DebugAnalysisManager
+    Value: Create
+
+    Key  : Analysis.Elapsed.mSec
+    Value: 48325
+
+    Key  : Analysis.Init.CPU.mSec
+    Value: 265
+
+    Key  : Analysis.Init.Elapsed.mSec
+    Value: 2529
+
+    Key  : Analysis.Memory.CommitPeak.Mb
+    Value: 99
+
+    Key  : WER.OS.Branch
+    Value: co_release
+
+    Key  : WER.OS.Timestamp
+    Value: 2021-06-04T16:28:00Z
+
+    Key  : WER.OS.Version
+    Value: 10.0.22000.1
+
+
+BUGCHECK_CODE:  19c
+
+BUGCHECK_P1: 50
+
+BUGCHECK_P2: ffffce052ebe5080
+
+BUGCHECK_P3: 0
+
+BUGCHECK_P4: 0
+
+CUSTOMER_CRASH_COUNT:  1
+
+PROCESS_NAME:  csrss.exe
+
+FAULTING_THREAD:  ffffce052ebe5080
+
+STACK_TEXT:  
+ffff908d`ed0be8b0 fffff801`73732457     : ffff9181`cccc0180 ffff9181`cccc0180 00000000`00000000 00000000`000000c0 : nt!KiSwapContext+0x76
+ffff908d`ed0be9f0 fffff801`73734309     : 0000002f`00000007 fffff801`00000000 ffff908d`ed0bebd0 00000000`00000000 : nt!KiSwapThread+0x3a7
+ffff908d`ed0bead0 fffff801`7372e224     : ffff908d`00000000 fffff801`00000000 00000000`0000007a 00000001`d5e802ed : nt!KiCommitThreadWait+0x159
+ffff908d`ed0beb70 fffff801`736234ed     : ffff908d`ed0bed30 fffff801`0000001b 00000000`0000c100 ffffce05`2d1a3c00 : nt!KeWaitForSingleObject+0x234
+ffff908d`ed0bec60 fffff801`7372dd16     : ffffce05`2e35e110 ffff908d`ed0bed18 00000000`00010224 fffff801`73651fd0 : nt!ExpWaitForResource+0x6d
+ffff908d`ed0bece0 fffff801`7372de1e     : ffff9051`029f4070 ffff9014`194a6e70 ffffce05`2ea8f120 00000000`00000000 : nt!ExpAcquireResourceExclusiveLite+0x3d6
+ffff908d`ed0bed80 ffff9014`192e150c     : ffff9014`194a6e70 ffffce05`2ea8f120 00000000`00002000 00000000`00000000 : nt!ExEnterCriticalRegionAndAcquireResourceExclusive+0x2e
+ffff908d`ed0bedc0 ffff9014`192e11bf     : 00000000`00000000 00000000`00000000 ffff908d`ed0bf130 00000000`00000050 : win32kbase!DrvSetWddmDeviceMonitorPowerState+0x32c
+ffff908d`ed0befd0 ffff9014`192771fa     : 00000000`00000050 00000000`00000000 00000000`00000000 00000000`00000001 : win32kbase!DrvSetMonitorPowerState+0x2f
+ffff908d`ed0bf000 ffff9014`192767ee     : 00000000`00000000 ffff908d`ed0bf170 00000000`00000001 00000000`00000001 : win32kbase!PowerOnMonitor+0x1ca
+ffff908d`ed0bf070 ffff9014`1927639e     : ffffce05`38b13b20 ffffce05`38b13b20 00000000`00000001 00000000`00000001 : win32kbase!xxxUserPowerEventCalloutWorker+0x2be
+ffff908d`ed0bf310 ffff9014`1966480d     : ffffce05`2ebe5080 00000000`00000000 00000000`00000020 fffff801`73b6a51a : win32kbase!xxxUserPowerCalloutWorker+0xde
+ffff908d`ed0bf380 ffff9014`19b66d4e     : 00000000`00000000 ffffce05`2ebe5080 00000000`00000000 00000000`000000e0 : win32kfull!NtUserUserPowerCalloutWorker+0x1d
+ffff908d`ed0bf3b0 fffff801`73827b75     : ffffce05`0000059f 6f89e961`c0b00000 00000000`00000000 00000000`00000000 : win32k!NtUserUserPowerCalloutWorker+0x16
+ffff908d`ed0bf3e0 00007ffb`eb81c774     : 00000000`00000000 00000000`00000000 00000000`00000000 00000000`00000000 : nt!KiSystemServiceCopyEnd+0x25
+000000e9`9a4bfea8 00000000`00000000     : 00000000`00000000 00000000`00000000 00000000`00000000 00000000`00000000 : 0x00007ffb`eb81c774
+
+
+STACK_COMMAND:  .thread 0xffffce052ebe5080 ; kb
+
+SYMBOL_NAME:  win32kbase!DrvSetWddmDeviceMonitorPowerState+32c
+
+MODULE_NAME: win32kbase
+
+IMAGE_NAME:  win32kbase.sys
+
+IMAGE_VERSION:  10.0.22000.282
+
+BUCKET_ID_FUNC_OFFSET:  32c
+
+FAILURE_BUCKET_ID:  0x19C_DRVSETMONITORPOWERSTATE_HANG_win32kbase!DrvSetWddmDeviceMonitorPowerState
+
+OS_VERSION:  10.0.22000.1
+
+BUILDLAB_STR:  co_release
+
+OSPLATFORM_TYPE:  x64
+
+OSNAME:  Windows 10
+
+FAILURE_ID_HASH:  {c2f3b63e-5f94-8af7-1fec-e562548bc885}
+
+Followup:     MachineOwner
+---------
+
