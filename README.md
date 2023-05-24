@@ -2,7 +2,7 @@
 
 Hi there! I am Miracle!  
 
-<p><img class="dcimg" src="https://anyuwzlnfq.cloudimg.io/v7/discord.c99.nl/widget/theme-3/847761781409447947.png?&radius=25&force_format=png"></p>
+<p><img class="dcimg" src="https://anyuwzlnfq.cloudimg.io/v7/discord.c99.nl/widget/theme-3/847761781409447947.png&radius=25&force_format=png"></p>
 
 I am now using the language below:  
 ![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
