@@ -3,7 +3,7 @@
 Hi there! I am Miracyueyue
 
 -> Host provider for [@yeecord](https://yeecord.com)\
--> Founder of mdesk.tech
+-> Founder of mdesk.tech\
 -> Mail.TO yue@mdesk.tech for FREE OR PAID 24*7 hosting!
 
 Also visit: [solo.to](https://solo.to/yueyue)
