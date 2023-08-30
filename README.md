@@ -2,11 +2,11 @@
 
 Hi there! I am Miracyueyue
 
--> Host provider for [@yeecord](https://yeecord.com)
+-> Host provider for [@yeecord](https://yeecord.com)\
 -> Founder of mdesk.tech
 -> Mail.TO yue@mdesk.tech for FREE OR PAID 24*7 hosting!
 
-Also visit: [solo.tto(https://solo.to/yueyue)
+Also visit: [solo.to](https://solo.to/yueyue)
 
 <p><img class="dcimg" src="https://anyuwzlnfq.cloudimg.io/v7/discord.c99.nl/widget/theme-3/847761781409447947.png?&radius=25&force_format=png?"></p>
 
