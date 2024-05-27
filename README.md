@@ -1,6 +1,6 @@
 ### Ab0ut_m3
 
-Hi there! I am Miracyueyue
+Hi there! I am Miyuki
 
 -> Host provider for [@yeecord](https://yeecord.com)\
 -> Founder of mdesk.tech\
