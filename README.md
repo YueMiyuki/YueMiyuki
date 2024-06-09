@@ -1,6 +1,6 @@
 ### Ab0ut_m3
 
-Hi there! I am Miyuki
+Hi there! I am Miyuki, I am a JS developer from HK 🇭🇰
 
 -> Host provider for [@yeecord](https://yeecord.com)\
 -> Founder of mdesk.tech\
@@ -8,22 +8,9 @@ Hi there! I am Miyuki
 
 Also visit: [solo.to](https://solo.to/yueyue)
 
-<p><img class="dcimg" src="https://anyuwzlnfq.cloudimg.io/v7/discord.c99.nl/widget/theme-3/847761781409447947.png?&radius=25&force_format=png?"></p>
+<p herf="https://discord.com/users/847761781409447947"><img class="dcimg" src="https://discord.c99.nl/widget/theme-4/847761781409447947.png"></p>
 
-I am now using the language below:  
-![javascript](https://badges.aleen42.com/src/javascript.svg) : JavaScript  
-![nodejs](https://badges.aleen42.com/src/node.svg) : Node.js  
-![docker](https://badges.aleen42.com/src/docker.svg) : Docker  
 
-I am using the IDEs below:  
-![vscode](https://badges.aleen42.com/src/visual_studio_code.svg) : Visual Studio Code  
-![vc](https://badges.aleen42.com/src/visual_studio.svg) : Visual Studio  
-![idea](https://badges.aleen42.com/src/idea.svg) : IntelliJ IDEA
-
-I am now learning the languages below:  
-![java](https://badges.aleen42.com/src/java.svg) : Java  
-![vue](https://badges.aleen42.com/src/vue.svg) : Vue  
-![ts](https://badges.aleen42.com/src/typescript.svg) : TypeScript  
 
 Here are my pinned repos 👇
 
