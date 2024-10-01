@@ -15,7 +15,7 @@ Also visit: [solo.to](https://solo.to/yueyue)
 Here are my pinned repos 👇
 
 ### mdesk.tech
-> [![mdesk.tech](https://github-readme-stats.vercel.app/api/pin/?username=YueMiyuki&repo=mdesk.tech&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/mTechHK/mdesk.tech)  
+> [![mdesk.tech](https://github-readme-stats.vercel.app/api/pin/?username=YueMiyuki&repo=mdesk.tech&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&border_color=fAA61A&border_radius=10)](https://github.com/YueMiyuki/mdesk.tech)  
 > ![CodeFactor](https://img.shields.io/codefactor/grade/github/YueMiyuki/mdesk.tech?style=for-the-badge&logo=codefactor) ![commit](https://img.shields.io/github/last-commit/YueMiyuki/mdesk.tech?color=%23181717&logo=GitHub&style=for-the-badge)  
 
 ### My home page
