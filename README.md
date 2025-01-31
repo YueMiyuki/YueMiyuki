@@ -1,6 +1,6 @@
-### Ab0ut_m3
+### ^_^
 
-Hi there! I am Miyuki, I am a JS developer and student from HK 🇭🇰
+Ciallo～(∠・ω＜)⌒☆ I am Miyuki, I am a JS developer and student from HK 🇭🇰
 
 -> Host provider for [@yeecord](https://yeecord.com)  
 -> Founder of [mdesk.tech](https://mdesk.tech)  
