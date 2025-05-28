@@ -11,6 +11,7 @@ Also visit: [solo.to](https://solo.to/yueyue)
 
 <p herf="https://discord.com/users/847761781409447947"><img class="dcimg" src="https://discord.c99.nl/widget/theme-4/847761781409447947.png"></p>
 
+> Life is better with coffee and code
 ---
 
 Here are my pinned repos 👇
