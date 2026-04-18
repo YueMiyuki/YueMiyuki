@@ -33,3 +33,9 @@ Here are my pinned repos 👇
   
 My account data 👇  
 ![Ab0ut_m3](https://miyuki-github.vercel.app/api/?username=YueMiyuki&show_icons=true&bg_color=23272A&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&count_private=true&include_all_commits=true&border_color=9B84EE&border_radius=10)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YueMiyuki&theme=dark&hide_border=false&short_numbers=true)](https://git.io/streak-stats)
+
+![MyLang](https://github-readme-stats.hackclub.dev/api/wakatime?username=25192&api_domain=hackatime.hackclub.com&theme=nightowl&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=10)
+
+![Heatmap](https://heatmap.shymike.dev?id=25192&timezone=Asia%2FHong_Kong&labels=true&theme=catppuccin_dark)
