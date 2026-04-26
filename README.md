@@ -32,7 +32,6 @@ I am **Miyuki**, a developer and student from HK 🇭🇰
       </a>
       <br>
       <img src="https://img.shields.io/codefactor/grade/github/YueMiyuki/my-home?style=for-the-badge&logo=codefactor&color=FF73F1">
-      <img src="https://img.shields.io/github/last-commit/YueMiyuki/my-home?color=%23181717&logo=GitHub&style=for-the-badge&label=commit">
     </td>
     <td>
       <a href="https://github.com/YueMiyuki/risuko">
@@ -40,7 +39,6 @@ I am **Miyuki**, a developer and student from HK 🇭🇰
       </a>
       <br>
       <img src="https://img.shields.io/codefactor/grade/github/YueMiyuki/risuko?style=for-the-badge&logo=codefactor&color=FF73F1">
-      <img src="https://img.shields.io/github/last-commit/YueMiyuki/risuko?color=%23181717&logo=GitHub&style=for-the-badge&label=commit">
     </td>
   </tr>
   <tr>
@@ -50,7 +48,6 @@ I am **Miyuki**, a developer and student from HK 🇭🇰
       </a>
       <br>
       <img src="https://img.shields.io/codefactor/grade/github/YueMiyuki/ward-next?style=for-the-badge&logo=codefactor&color=FF73F1">
-      <img src="https://img.shields.io/github/last-commit/YueMiyuki/ward-next?color=%23181717&logo=GitHub&style=for-the-badge&label=commit">
     </td>
     <td>
       <a href="https://github.com/YueMiyuki/devutils">
@@ -58,7 +55,6 @@ I am **Miyuki**, a developer and student from HK 🇭🇰
       </a>
       <br>
       <img src="https://img.shields.io/codefactor/grade/github/YueMiyuki/devutils?style=for-the-badge&logo=codefactor&color=FF73F1">
-      <img src="https://img.shields.io/github/last-commit/YueMiyuki/devutils?color=%23181717&logo=GitHub&style=for-the-badge&label=commit">
     </td>
   </tr>
 </table>
