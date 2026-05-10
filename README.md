@@ -86,7 +86,7 @@ I am **Miyuki**, a developer and student from HK 🇭🇰
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YueMiyuki&layout=compact&hide_border=true&bg_color=151515&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&langs_count=10&card_width=700&hide=assembly">
+      <img src="https://miyuki-github.vercel.app/api/top-langs/?username=YueMiyuki&layout=compact&hide_border=true&bg_color=151515&title_color=FF73F1&text_color=FFC0CB&icon_color=9B84EE&langs_count=10&card_width=700&hide=assembly">
     </td>
   </tr>
 </table>
